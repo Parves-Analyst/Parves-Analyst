@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋 I'm Parves
 
-<!--
-**Parves-Analyst/Parves-Analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst** passionate about turning data into insights and decisions.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages**: Python, SQL, Excel
+- **Tools**: Power BI, Tableau, Jupyter Notebook
+- **Concepts**: Data Cleaning, EDA, Dashboarding, Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Portfolio Projects (Coming Soon)
+- Customer Data Analysis
+- Sales Dashboard (Power BI)
+- Web Scraping and Visualization with Python
+
+## 🧠 Currently Learning
+- Advanced SQL & Python for Data Analysis
+- Financial Analysis & Business Intelligence
+- GitHub & Portfolio Building
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/parves-analyst)
+- 📧 Email: [parves.analyst@gmail.com](mailto:parves.analyst@gmail.com)
+
+> “Data beats opinion — make decisions backed by evidence.”
